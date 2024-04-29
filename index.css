@@ -3,6 +3,9 @@ h1{
   text-align:center;
 }
 h2{
- color: red;
+ tcolor: red;
  font-family: Verdana;
+}
+h3{
+  text-align: center;
 }
